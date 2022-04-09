@@ -20,6 +20,6 @@ Examples:
 ![](img/ref6_1000spp_denoise.png)
 ![](img/ref6_200spp_denoise.png)
 
-More examples on my ArtStation: https://www.artstation.com/lovro
+More examples on my ArtStation: https://www.artstation.com/artwork/YKqGWw
 
 Thanks to PolyHaven for fantastic HDRIs!
